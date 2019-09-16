@@ -1,0 +1,18 @@
+html{
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after{
+    box-sizing: inherit;
+}
+
+a{
+    display: inline-block;
+}
+
+ul,
+li{
+    list-style: none;
+}
